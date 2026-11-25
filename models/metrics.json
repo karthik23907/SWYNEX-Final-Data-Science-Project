@@ -1,0 +1,25 @@
+{
+  "selected_model": "Gradient Boosting (tuned)",
+  "threshold": 0.24,
+  "test": {
+    "PR-AUC": 0.6618,
+    "ROC-AUC": 0.8458,
+    "Brier": 0.1357
+  },
+  "test_95ci": {
+    "PR-AUC": [
+      0.6085,
+      0.7134
+    ],
+    "ROC-AUC": [
+      0.8231,
+      0.8678
+    ]
+  },
+  "cost_assumptions": {
+    "offer_cost": 50.0,
+    "save_rate": 0.3,
+    "horizon_months": 12
+  },
+  "sklearn_seed": 42
+}

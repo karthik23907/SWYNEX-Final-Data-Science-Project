@@ -1,0 +1,16 @@
+Completed Task 4 of my Data Science internship with @SWYNEX Technologies! 🚀
+
+I built an end-to-end churn prediction project on the IBM Telco dataset (7,043 customers), covering data preparation, EDA, modeling and business recommendations, all in one reproducible GitHub repo.
+
+Highlights:
+📊 Month-to-month customers churn at 43% vs 3% on two-year contracts, and 55% of churners leave within their first year.
+🧹 Found 11 hidden blanks that pandas reported as "no missing values", and fixed them with a tested pipeline.
+🤖 Tuned Gradient Boosting: ROC-AUC 0.85, PR-AUC 0.66 (baseline 0.27). The top 10% of risky customers hold 29% of all churners.
+💰 A cost-based threshold catches 83% of churners and beats the default 0.5 cut-off in net retention benefit.
+
+Biggest lesson: choosing the decision threshold from business costs matters as much as the model itself.
+
+Repo: <paste your GitHub link>
+[attach a short demo video of the repo and notebooks]
+
+#SWYNEX #Internship #DataScience #MachineLearning #Python #Churn
